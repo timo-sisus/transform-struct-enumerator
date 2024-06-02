@@ -11,7 +11,7 @@ namespace Sisus
 		/// <summary>
 		/// Gets a enumerator that can be used to iterate the immediate children of the <paramref name="transform"/>
 		/// using a foreach loop, without any garbage being generated from the operation.
-	    /// </summary>
+		/// </summary>
 		/// <example>
 		/// <code>
 		/// foreach(Transform child in transform.GetChildren())
